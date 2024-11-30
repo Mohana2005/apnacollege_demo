@@ -1,2 +1,2 @@
 # apnacollege_demo
-Author-Mohana
+Author-Mohana Phanitha
